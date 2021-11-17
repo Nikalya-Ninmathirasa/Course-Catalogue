@@ -1,0 +1,22 @@
+.container{
+    max-width: 141px;
+    height: 83px;
+    padding: 16px 12px;
+}
+
+.number{
+    margin-top: 3px;
+    color: rgba(78, 89, 131, 1);
+}
+
+.success{
+    color: rgba(77, 182, 172, 1);
+}
+
+.warning{
+    color: rgba(255, 177, 0, 1);
+}
+
+.danger{
+    color:rgba(255, 122, 122, 1);
+}
